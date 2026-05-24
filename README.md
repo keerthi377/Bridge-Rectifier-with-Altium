@@ -14,7 +14,7 @@ This project includes:
 
 ---
 
-# Working Principle
+# Basic Working Principle
 
 A bridge rectifier converts AC voltage into DC voltage using four diodes arranged in a bridge configuration.
 
@@ -298,7 +298,3 @@ All custom footprints were designed using manufacturer datasheets.
 * 3D enclosure integration
 
 ---
-
-# License
-
-This project is intended for educational and learning purposes.
