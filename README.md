@@ -57,8 +57,7 @@ f_{ripple}=2f_{input}
 
 For a bridge rectifier:
 
-V_{DC}=V_{RMS}\sqrt{2}-2V_D
-
+DC​=VRMS​*root2−2VD​
 ---
 
 ## Ripple Voltage
@@ -76,7 +75,7 @@ Higher capacitance results in lower ripple.
 
 Capacitance is calculated using:
 
-C=\frac{I}{2fV_r}
+C=I/2*f*Vr
 
 Calculated value:
 
