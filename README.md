@@ -151,6 +151,13 @@ During overvoltage conditions:
 * MOV resistance decreases rapidly,
 * surge current is diverted safely.
 
+Selected value:
+
+```text id="1x9r2w"
+Varistors 210pF 240volts 10%
+```
+
+
 ---
 
 ## X and Y Safety Capacitors
@@ -169,6 +176,12 @@ Used to suppress:
 Differential-mode noise
 ```
 
+Selected value:
+
+```text id="1x9r2w"
+0.01uF 310VAC 
+```
+
 ---
 
 ### Y Capacitor
@@ -184,7 +197,11 @@ Used to suppress:
 ```text id="5r2q7n"
 Common-mode noise
 ```
+Selected value:
 
+```text id="1x9r2w"
+300VAC 470pF 
+```
 ---
 
 ## Common-Mode Choke
@@ -203,7 +220,7 @@ The common-mode choke suppresses:
 | Slow Blow Fuse    | 04653.15DR               |
 | Connector         | 691311500103             |
 | MOV               | 07D241K                  |
-| Bridge Rectifier  | KBP206G-G                |
+| Bridge Rectifier  | KBJ1010_T0_00601         |
 | Y2 Capacitor      | Vishay AY2471K29Y5SS63L7 |
 | Common-Mode Choke | PM3700-50-RC             |
 | X2 Capacitor      | BFC233990027             |
